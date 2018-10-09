@@ -1,2 +1,24 @@
+.list-style {
+	color: orange;
+	list-style: square;
+	list-style-position: inside;
+}
 
+.center {
+	text-align: center;
+}
 
+img {
+	border: 1px;
+}
+
+.bgColor {
+	background-color: lightblue;
+}
+
+.textStyle {
+	word-wrap: break-word;
+	width: 100em;
+	margin-left: auto;
+	margin-right: auto;
+}
